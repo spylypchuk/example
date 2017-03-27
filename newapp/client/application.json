@@ -1,0 +1,7 @@
+{
+  "name": "newapp",
+  "defaultLayout": "phone-portrait",
+  "sideMenu": true,
+  "previewToken": "802cbed9",
+  "uiCommonVersion": "5.0.1"
+}
