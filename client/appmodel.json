@@ -105,5 +105,14 @@
         "type": "string"
       }
     }
+  },
+  "hhhhhhh3333333": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "gggg": {
+        "type": "string"
+      }
+    }
   }
 }

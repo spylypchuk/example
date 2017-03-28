@@ -6,5 +6,12 @@
       "type": "string"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "tghgfhghfghf"
+      ]
+    }
+  ]
 }
