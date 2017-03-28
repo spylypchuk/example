@@ -40,7 +40,7 @@
       "name": "sptestscreen",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
-      "model": "check"
+      "model": "checktest"
     }
   ],
   "sourceAppId": "_blank",
