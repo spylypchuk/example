@@ -96,5 +96,14 @@
   "sptest333": {
     "type": "object",
     "properties": {}
+  },
+  "hhhhhhh": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "gggg": {
+        "type": "string"
+      }
+    }
   }
 }
