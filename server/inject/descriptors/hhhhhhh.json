@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "gggg": {
+      "type": "string"
+    }
+  },
+  "connect": []
+}
