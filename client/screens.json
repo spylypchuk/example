@@ -34,6 +34,13 @@
       "sourceScreenId": "app.postsnews.postscool",
       "sourceAppId": "powwow",
       "model": "postscool"
+    },
+    {
+      "id": "sptestscreen",
+      "name": "sptestscreen",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank",
+      "model": "check"
     }
   ],
   "sourceAppId": "_blank",
