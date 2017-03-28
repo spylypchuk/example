@@ -27,6 +27,13 @@
       "sourceScreenId": "app.listview.listviewcool",
       "sourceAppId": "powwow",
       "model": "listviewcool"
+    },
+    {
+      "id": "postscool",
+      "name": "Posts-Cool",
+      "sourceScreenId": "app.postsnews.postscool",
+      "sourceAppId": "powwow",
+      "model": "postscool"
     }
   ],
   "sourceAppId": "_blank",
