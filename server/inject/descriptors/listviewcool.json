@@ -12,7 +12,10 @@
             "update": {
               "type": "none"
             },
-            "selector": "test"
+            "selector": {
+              "fn": "",
+              "selector": "[alt='Two children on new train car']"
+            }
           },
           "action": {
             "type": "action"
