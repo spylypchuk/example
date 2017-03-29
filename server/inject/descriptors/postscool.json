@@ -10,7 +10,7 @@
           "posttitle": {
             "type": "string",
             "label": "posttitle",
-            "selector": "[alt='Two children on new train car']",
+            "selector": ".block.block-views.",
             "control": "attrib.src"
           },
           "reportedbyname": {
