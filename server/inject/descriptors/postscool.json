@@ -11,7 +11,7 @@
             "type": "string",
             "label": "posttitle",
             "selector": "#hp-service-advisories",
-            "control": "attrib.src"
+            "control": "property.innerText"
           },
           "reportedbyname": {
             "type": "string",
