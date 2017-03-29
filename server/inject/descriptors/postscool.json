@@ -24,7 +24,7 @@
             "label": "postdetails"
           },
           "flagged": {
-            "type": "select",
+            "type": "boolean",
             "label": "Flagged"
           },
           "favorite": {
