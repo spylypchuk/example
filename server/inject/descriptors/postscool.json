@@ -10,7 +10,6 @@
           "posttitle": {
             "type": "string",
             "label": "posttitle",
-            "selector": "#hp-service-advisories",
             "control": "property.innerText"
           },
           "reportedbyname": {
