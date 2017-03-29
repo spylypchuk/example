@@ -10,7 +10,7 @@
           "posttitle": {
             "type": "string",
             "label": "posttitle",
-            "selector": ".block.block-views.",
+            "selector": "#hp-service-advisories",
             "control": "attrib.src"
           },
           "reportedbyname": {
