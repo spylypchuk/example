@@ -9,7 +9,9 @@
         "properties": {
           "posttitle": {
             "type": "string",
-            "label": "posttitle"
+            "label": "posttitle",
+            "selector": "[alt='Two children on new train car']",
+            "control": "attrib.src"
           },
           "reportedbyname": {
             "type": "string",
