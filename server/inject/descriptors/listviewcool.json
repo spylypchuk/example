@@ -11,7 +11,8 @@
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "test"
           },
           "action": {
             "type": "action"
