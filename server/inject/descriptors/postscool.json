@@ -9,8 +9,7 @@
         "properties": {
           "posttitle": {
             "type": "string",
-            "label": "posttitle",
-            "control": "property.innerText"
+            "label": "posttitle"
           },
           "reportedbyname": {
             "type": "string",
