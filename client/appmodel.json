@@ -114,5 +114,9 @@
         "type": "string"
       }
     }
+  },
+  "sptest3331111111": {
+    "type": "object",
+    "properties": {}
   }
 }
