@@ -48,6 +48,12 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "sptest3331111111"
+    },
+    {
+      "id": "screen1",
+      "name": "screen1",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
