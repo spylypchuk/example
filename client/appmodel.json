@@ -118,5 +118,10 @@
   "sptest3331111111": {
     "type": "object",
     "properties": {}
+  },
+  "modelforscreen1": {
+    "type": "object",
+    "comment": "",
+    "properties": {}
   }
 }
