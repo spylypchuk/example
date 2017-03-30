@@ -53,7 +53,8 @@
       "id": "screen1",
       "name": "screen1",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "modelforscreen1"
     }
   ],
   "sourceAppId": "_blank",
