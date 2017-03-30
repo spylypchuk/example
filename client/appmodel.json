@@ -123,5 +123,10 @@
     "type": "object",
     "comment": "",
     "properties": {}
+  },
+  "modelforscreen1": {
+    "type": "object",
+    "comment": "",
+    "properties": {}
   }
 }

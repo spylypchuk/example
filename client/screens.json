@@ -54,7 +54,7 @@
       "name": "screen1",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
-      "model": "screen1model"
+      "model": "modelforscreen1"
     }
   ],
   "sourceAppId": "_blank",
