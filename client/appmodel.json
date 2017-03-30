@@ -119,7 +119,7 @@
     "type": "object",
     "properties": {}
   },
-  "modelforscreen1": {
+  "screen1model": {
     "type": "object",
     "comment": "",
     "properties": {}
