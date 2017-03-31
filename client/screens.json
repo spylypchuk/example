@@ -83,6 +83,13 @@
       "sourceScreenId": "app.categories.categoriescool",
       "sourceAppId": "universaltemplates",
       "model": "categoriescool"
+    },
+    {
+      "id": "userprofilecaptivating",
+      "name": "UserProfile-Captivating",
+      "sourceScreenId": "app.userprofile.userprofilecaptivating",
+      "sourceAppId": "universaltemplates",
+      "model": "userprofilecaptivating"
     }
   ],
   "sourceAppId": "_blank",

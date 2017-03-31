@@ -105,5 +105,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.userprofilecaptivating', {
+        views: {
+            app: {
+                controller: 'app_userprofilecaptivating',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.userprofilecaptivating');
+                }
+            }
+        }
     });
 });
