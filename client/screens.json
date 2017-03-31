@@ -55,6 +55,12 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "screen1model"
+    },
+    {
+      "id": "new",
+      "name": "new",
+      "folder": true,
+      "screens": []
     }
   ],
   "sourceAppId": "_blank",
