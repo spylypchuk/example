@@ -76,12 +76,6 @@
           "model": "sidemenucool1"
         }
       ]
-    },
-    {
-      "id": "newscreen",
-      "name": "newscreen",
-      "sourceScreenId": "app.new.sidemenucool1",
-      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
