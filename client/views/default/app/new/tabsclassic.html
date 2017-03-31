@@ -1,0 +1,29 @@
+<ion-view data-comp-id="ionic-view.1">
+    <ion-nav-bar align-title="" class=" bar-positive" data-comp-id="nav-bar.1">
+        <ion-nav-buttons side="left">
+            <button class="button button-icon ion-ios-arrow-left" data-comp-id="button.1"></button>
+        </ion-nav-buttons>
+        <ion-nav-title data-comp-id="nav-title.1">Tabs</ion-nav-title>
+        <ion-nav-buttons side="right"></ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-content class="" data-comp-id="ionic-content.1">
+        <!--Tabs-->
+        <div data-comp-id="div.1">
+            <div class="row light-bg" data-comp-id="row.1" style="padding: 0px;">
+                <div class="col text-center" data-comp-id="column.1"
+                    ng-click="app.action('tabs', 'data.tabs[item].action', this)"
+                    ng-repeat="item in data.tabs"
+                    style="border-top: 3px solid rgb(255, 153, 102); margin: 0px; padding: 10px 15px; border-right: 1px solid rgb(221, 221, 221);">
+                    <i class="icon {{item.icon}} balanced" data-comp-id="icon.1"
+                        ng-if="item.selected" style="font-size: 20px; float: left;"></i>
+                    <i class="icon {{item.icon}} dark" data-comp-id="icon.2" ng-if="!item.selected"
+                        style="font-size: 20px; float: left; color: rgb(168, 168, 168);"></i>
+                    <div class=" balanced" data-comp-id="text.1" ng-bind="item.name"
+                        ng-if="item.selected" style="font-weight: normal;">Tab 1</div>
+                    <div class=" dark" data-comp-id="text.2" ng-bind="item.name"
+                        ng-if="!item.selected" style="font-weight: normal; color: rgb(148, 148, 148);">Tab 1</div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

@@ -78,5 +78,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.new/tabsclassic', {
+        views: {
+            app: {
+                controller: 'app_new_tabsclassic',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.new.tabsclassic');
+                }
+            }
+        }
     });
 });

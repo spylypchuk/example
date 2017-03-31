@@ -60,7 +60,15 @@
       "id": "new",
       "name": "new",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "tabsclassic",
+          "name": "Tabs-Classic",
+          "sourceScreenId": "app.tabbednavigation.tabsclassic",
+          "sourceAppId": "universaltemplates",
+          "model": "tabsclassic"
+        }
+      ]
     }
   ],
   "sourceAppId": "_blank",
