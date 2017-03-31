@@ -67,6 +67,13 @@
           "sourceScreenId": "app.slideoutmenu.sidemenucool",
           "sourceAppId": "universaltemplates",
           "model": "sidemenucool"
+        },
+        {
+          "id": "sidemenucool1",
+          "name": "SideMenu-Cool1",
+          "sourceScreenId": "app.slideoutmenu.sidemenucool",
+          "sourceAppId": "universaltemplates",
+          "model": "sidemenucool1"
         }
       ]
     }
