@@ -60,7 +60,15 @@
       "id": "new",
       "name": "new",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "listviewcool",
+          "name": "ListView-Cool",
+          "sourceScreenId": "app.listview.listviewcool",
+          "sourceAppId": "universaltemplates",
+          "model": "listviewcool"
+        }
+      ]
     }
   ],
   "sourceAppId": "_blank",
