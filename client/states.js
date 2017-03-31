@@ -96,5 +96,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.categoriescool', {
+        views: {
+            app: {
+                controller: 'app_categoriescool',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.categoriescool');
+                }
+            }
+        }
     });
 });

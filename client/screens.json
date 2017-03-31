@@ -76,6 +76,13 @@
           "model": "sidemenucool1"
         }
       ]
+    },
+    {
+      "id": "categoriescool",
+      "name": "Categories-Cool",
+      "sourceScreenId": "app.categories.categoriescool",
+      "sourceAppId": "universaltemplates",
+      "model": "categoriescool"
     }
   ],
   "sourceAppId": "_blank",
