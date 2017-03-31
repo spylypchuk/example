@@ -78,5 +78,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.new/sidemenucool', {
+        views: {
+            app: {
+                controller: 'app_new_sidemenucool',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.new.sidemenucool');
+                }
+            }
+        }
     });
 });

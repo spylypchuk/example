@@ -60,7 +60,15 @@
       "id": "new",
       "name": "new",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "sidemenucool",
+          "name": "SideMenu-Cool",
+          "sourceScreenId": "app.slideoutmenu.sidemenucool",
+          "sourceAppId": "universaltemplates",
+          "model": "sidemenucool"
+        }
+      ]
     }
   ],
   "sourceAppId": "_blank",
