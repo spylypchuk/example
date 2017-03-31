@@ -331,5 +331,9 @@
         "type": "action"
       }
     }
+  },
+  "checktest": {
+    "type": "object",
+    "properties": {}
   }
 }

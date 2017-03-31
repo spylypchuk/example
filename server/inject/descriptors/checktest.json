@@ -1,5 +1,18 @@
 {
   "type": "object",
   "properties": {},
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "screen1"
+      ]
+    },
+    {
+      "match": [],
+      "screens": [
+        "new/sidemenucool"
+      ]
+    }
+  ]
 }
