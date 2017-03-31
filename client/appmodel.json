@@ -122,7 +122,11 @@
   "screen1model": {
     "type": "object",
     "comment": "",
-    "properties": {}
+    "properties": {
+      "test": {
+        "type": "string"
+      }
+    }
   },
   "modelforscreen1": {
     "type": "object",
