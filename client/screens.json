@@ -97,6 +97,13 @@
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
+    },
+    {
+      "id": "tabledatacaptivating",
+      "name": "TableData-Captivating",
+      "sourceScreenId": "app.tableview.tabledatacaptivating",
+      "sourceAppId": "universaltemplates",
+      "model": "tabledatacaptivating"
     }
   ],
   "sourceAppId": "_blank",

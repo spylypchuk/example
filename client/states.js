@@ -123,5 +123,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.tabledatacaptivating', {
+        views: {
+            app: {
+                controller: 'app_tabledatacaptivating',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.tabledatacaptivating');
+                }
+            }
+        }
     });
 });
