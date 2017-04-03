@@ -13,6 +13,18 @@
       "screens": [
         "new/sidemenucool"
       ]
+    },
+    {
+      "match": [],
+      "screens": [
+        "loginconfident"
+      ]
+    },
+    {
+      "match": [],
+      "screens": [
+        "tabledatacaptivating"
+      ]
     }
   ]
 }
